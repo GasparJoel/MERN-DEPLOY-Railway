@@ -11,7 +11,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon --env-file=.env ./src/index.js",
-    "start":"node src/index.jsx"
+    "start":"node src/index.js"
   },
   "author": "",
   "license": "ISC",
